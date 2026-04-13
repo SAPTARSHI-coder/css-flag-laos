@@ -119,6 +119,6 @@ Or simply visit the **[live deployment ↗](https://css-flag-laos.vercel.app/)**
 
 <div align="center">
 
-Made with ❤️ and pure CSS &nbsp;|&nbsp; Part of the **100 Days of Code** CSS Challenge
+Made with ❤️ and pure CSS 
 
 </div>

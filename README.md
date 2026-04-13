@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🇱🇦 CSS Flag — Flag of Laos
+# CSS Flag — Flag of Laos
 
 **A pixel-perfect recreation of the national flag of Laos — built with pure CSS and three nested `<div>` elements.**
 

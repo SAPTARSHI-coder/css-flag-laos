@@ -41,6 +41,3 @@ Open `index.html` in any browser. No internet connection or build step required.
 - **Child combinator** selector (`.flag > div`, `.flag > div div`)
 - CSS specificity and selector targeting without classes or IDs
 
----
-*Part of the Antigravity project collection — Saptarshi Sadhu*
-"# css-flag-laos" 
